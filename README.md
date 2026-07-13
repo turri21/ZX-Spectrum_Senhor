@@ -1,3 +1,8 @@
+-=(ZXSpectrum_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & sound.
+
+___
 # [ZX Spectrum](https://en.wikipedia.org/wiki/ZX_Spectrum) for MiSTer Platform
 
 Some verilog models from Till Harbaum [Spectrum](https://github.com/mist-devel/mist-board/tree/master/cores/spectrum) core were used in this project.
